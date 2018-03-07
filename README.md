@@ -1,0 +1,1 @@
+Here we present an IOT based Weather Monitoring System which senses the Temperature, Humidity and Light Intensity of the surrounding and hence monitors them accordingly.
